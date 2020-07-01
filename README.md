@@ -1,5 +1,5 @@
-![alt text](https://github.com/deepghuge36/valuefy_invezta/blob/master/assets/img/Invezta_Logo.png "Invezta Logo")
 
+https://deepghuge36.github.io/valuefy_invezta/
 # valuefy_invezta
 > Using only HTML and CSS
 
